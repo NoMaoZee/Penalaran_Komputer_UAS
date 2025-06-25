@@ -1,0 +1,22 @@
+--- Report for: tfidf_majority_vote ---
+                             precision    recall  f1-score   support
+
+         Menolak Permohonan       0.00      0.00      0.00       5.0
+NO_VALID_SOLUTIONS_IN_TOP_K       0.00      0.00      0.00       0.0
+
+                   accuracy                           0.00       5.0
+                  macro avg       0.00      0.00      0.00       5.0
+               weighted avg       0.00      0.00      0.00       5.0
+
+
+--- Report for: tfidf_weighted_similarity ---
+                             precision    recall  f1-score   support
+
+         Menolak Permohonan       0.00      0.00      0.00       5.0
+NO_VALID_SOLUTIONS_IN_TOP_K       0.00      0.00      0.00       0.0
+
+                   accuracy                           0.00       5.0
+                  macro avg       0.00      0.00      0.00       5.0
+               weighted avg       0.00      0.00      0.00       5.0
+
+

@@ -1,0 +1,11 @@
+query_id,retrieval_method,prediction_algorithm_context,precision_at_5,recall_at_5,f1_score_at_5
+Q001_PO,tfidf,majority_vote,0.2,0.2,0.20000000000000004
+Q001_PO,tfidf,weighted_similarity,0.2,0.2,0.20000000000000004
+Q002_PO,tfidf,majority_vote,0.0,0.0,0.0
+Q002_PO,tfidf,weighted_similarity,0.0,0.0,0.0
+Q003_PO,tfidf,majority_vote,0.0,0.0,0.0
+Q003_PO,tfidf,weighted_similarity,0.0,0.0,0.0
+Q004_PO,tfidf,majority_vote,0.6,0.3333333333333333,0.42857142857142855
+Q004_PO,tfidf,weighted_similarity,0.6,0.3333333333333333,0.42857142857142855
+Q005_PO,tfidf,majority_vote,0.0,0.0,0.0
+Q005_PO,tfidf,weighted_similarity,0.0,0.0,0.0

@@ -1,0 +1,494 @@
+2025-06-24 12:15:13 - Starting scraping process for keyword: Perdagangan Orang
+2025-06-24 12:15:13 - Target number of documents: 100
+2025-06-24 12:15:13 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=Perdaganganorang&page=1
+2025-06-24 12:15:33 - Page 1: Found 23 potential links. Added 23 new unique links.
+2025-06-24 12:15:35 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=Perdaganganorang&page=2
+2025-06-24 12:15:50 - Page 2: Found 23 potential links. Added 20 new unique links.
+2025-06-24 12:15:52 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=Perdaganganorang&page=3
+2025-06-24 12:15:56 - Page 3: Found 23 potential links. Added 21 new unique links.
+2025-06-24 12:15:58 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=Perdaganganorang&page=4
+2025-06-24 12:16:19 - Page 4: Found 23 potential links. Added 18 new unique links.
+2025-06-24 12:16:21 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=Perdaganganorang&page=5
+2025-06-24 12:16:33 - Page 5: Found 23 potential links. Added 20 new unique links.
+2025-06-24 12:16:35 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=Perdaganganorang&page=6
+2025-06-24 12:16:45 - Page 6: Found 23 potential links. Added 20 new unique links.
+2025-06-24 12:16:47 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=Perdaganganorang&page=7
+2025-06-24 12:16:53 - Page 7: Found 23 potential links. Added 20 new unique links.
+2025-06-24 12:16:55 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=Perdaganganorang&page=8
+2025-06-24 12:17:01 - Page 8: Found 23 potential links. Added 8 new unique links.
+2025-06-24 12:17:01 - Collected enough links (150). Moving to data extraction.
+2025-06-24 12:17:01 - Total unique decision links collected: 150
+2025-06-24 12:17:01 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/0925b1b7a6c09abe07e7e053dd9353bd.html
+2025-06-24 12:17:01 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebde2fc372d0769e6f313435373038.html
+2025-06-24 12:17:01 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/6a2b6be31c5161e81622557a8f0e84fb.html
+2025-06-24 12:17:16 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/11e94687a56f4c368ff7303133333232/pdf/0925b1b7a6c09abe07e7e053dd9353bd
+2025-06-24 12:17:19 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/558660aa0cbfcee11496f1bbef2f5a0c.html
+2025-06-24 12:17:26 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/4388965f77f8fd16b11b21855c83d600/pdf/zaebde2fc372d0769e6f313435373038
+2025-06-24 12:17:27 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/9424575328d4892f3c9bd0c41cadd50e.html
+2025-06-24 12:17:27 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/047ef5806757b741a4b665d16bc9c19e.html
+2025-06-24 12:17:28 - Successfully downloaded PDF: putusan_1699__k_pid.sus_2010_20250624191726.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:17:29 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:17:29 - Extracted and cleaned text for 1699  K/PID.SUS/2010. Length: 20100 chars.
+2025-06-24 12:17:29 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1699  K_PID.SUS_2010_001.txt
+2025-06-24 12:17:29 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/ea25bd79d04f829ec593349fe5e04c6d.html
+2025-06-24 12:17:29 - Successfully processed and got data for case_id: case_001
+2025-06-24 12:17:29 - Successfully processed and got data for case_id: case_002
+2025-06-24 12:17:29 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:17:37 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/11eaff3f60ca6470adb8323135373036/pdf/558660aa0cbfcee11496f1bbef2f5a0c
+2025-06-24 12:17:47 - Successfully downloaded PDF: putusan_77_pid_2021_pt_kpg_20250624191743.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:17:49 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/ed75a7802ccb9a8b6fe80559c46baf9a.html
+2025-06-24 12:17:49 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:17:49 - Extracted and cleaned text for 77/PID/2021/PT KPG. Length: 44171 chars.
+2025-06-24 12:17:49 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_77_PID_2021_PT KPG_004.txt
+2025-06-24 12:17:49 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/32b229d5b337d946fa530f51a348b925.html
+2025-06-24 12:17:49 - Successfully processed and got data for case_id: case_004
+2025-06-24 12:18:00 - Successfully downloaded PDF: putusan_1264_k_pid.sus_2010_20250624191759.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:18:01 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:18:01 - Extracted and cleaned text for 1264 K/Pid.Sus/2010. Length: 26688 chars.
+2025-06-24 12:18:01 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1264 K_Pid.Sus_2010_005.txt
+2025-06-24 12:18:01 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/d48729b89947b740112797fda1ea7949.html
+2025-06-24 12:18:01 - Successfully processed and got data for case_id: case_005
+2025-06-24 12:18:01 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:18:05 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:18:05 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebde2fc14e3d3086b6313435373035.html
+2025-06-24 12:18:07 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/e9a7acb67a83fc927a66daf7597c7592/pdf/32b229d5b337d946fa530f51a348b925
+2025-06-24 12:18:12 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/ed75a7802ccb9a8b6fe80559c46baf9a.html
+2025-06-24 12:18:12 - Successfully processed and got data for case_id: case_008
+2025-06-24 12:18:12 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf050f488ff1abc8588313931323434.html
+2025-06-24 12:18:19 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/ed4a17617e4dd0a1057545b3eda3aa7e/pdf/d48729b89947b740112797fda1ea7949
+2025-06-24 12:18:22 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/12654d9d7fa55ba8bd1304807381fb1a/pdf/zaebde2fc14e3d3086b6313435373035
+2025-06-24 12:18:29 - Successfully downloaded PDF: putusan_206_pid.sus_2019_pn_jkt.utr_20250624191827.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:18:31 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:18:31 - Extracted and cleaned text for 206/Pid.Sus/2019/PN Jkt.Utr. Length: 62208 chars.
+2025-06-24 12:18:31 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_206_Pid.Sus_2019_PN Jkt.Utr_009.txt
+2025-06-24 12:18:31 - Successfully processed and got data for case_id: case_009
+2025-06-24 12:18:31 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf04d039fb81ac09a313631313532.html
+2025-06-24 12:18:32 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/7af61204c47bebf29e254440dd815fc7/pdf/zaf050f488ff1abc8588313931323434
+2025-06-24 12:18:43 - Successfully downloaded PDF: putusan_1569_k_pid.sus_2014_20250624191839.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:18:47 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:18:47 - Extracted and cleaned text for 1569 K/PID.SUS/2014. Length: 66164 chars.
+2025-06-24 12:18:47 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1569 K_PID.SUS_2014_010.txt
+2025-06-24 12:18:47 - Successfully processed and got data for case_id: case_010
+2025-06-24 12:18:47 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/b2a84cc9ed6e4fa9960d6b35313683bd.html
+2025-06-24 12:18:49 - Successfully downloaded PDF: putusan_77_pid_2021_pt_kpg_20250624191845.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:18:50 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:18:50 - Extracted and cleaned text for 77/PID/2021/PT KPG. Length: 44171 chars.
+2025-06-24 12:18:50 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_77_PID_2021_PT KPG_011.txt
+2025-06-24 12:18:50 - Successfully processed and got data for case_id: case_011
+2025-06-24 12:18:50 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/aa6a1d59f7b3b27444e7fbd4eed60a7e.html
+2025-06-24 12:19:01 - Successfully downloaded PDF: putusan_1220_pdt.g_2025_pa.mks_20250624191859.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:19:02 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:19:02 - Extracted and cleaned text for 1220/Pdt.G/2025/PA.Mks. Length: 25702 chars.
+2025-06-24 12:19:02 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1220_Pdt.G_2025_PA.Mks_012.txt
+2025-06-24 12:19:02 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf7832e51a1f8b9d7323032373135.html
+2025-06-24 12:19:02 - Successfully processed and got data for case_id: case_012
+2025-06-24 12:19:03 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/f3f1315ee739e66b969ebe1523c5f420/pdf/b2a84cc9ed6e4fa9960d6b35313683bd
+2025-06-24 12:19:04 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf04d039fb81ac09a313631313532.html
+2025-06-24 12:19:04 - Successfully processed and got data for case_id: case_013
+2025-06-24 12:19:04 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/4edd63407f9b17b24eb34e8b74c93db3.html
+2025-06-24 12:19:17 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/ade5be241e5bc9a4a831862ca5f15d4b.html
+2025-06-24 12:19:24 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf7832e51a1f8b9d7323032373135.html
+2025-06-24 12:19:24 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/5e59a4b7a6ae6c9d702a475ce8a86c3a.html
+2025-06-24 12:19:26 - Successfully downloaded PDF: putusan_1892_k_pid.sus_2012_20250624191923.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:19:27 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:19:27 - Extracted and cleaned text for 1892 K/PID.SUS/2012. Length: 21540 chars.
+2025-06-24 12:19:27 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1892 K_PID.SUS_2012_014.txt
+2025-06-24 12:19:27 - Successfully processed and got data for case_id: case_014
+2025-06-24 12:19:27 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebac857ac16c88ad5b313030343435.html
+2025-06-24 12:19:27 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:19:27 - Successfully processed and got data for case_id: case_016
+2025-06-24 12:19:43 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/782df922d70166cfd5a09d5caaae4b7c/pdf/4edd63407f9b17b24eb34e8b74c93db3
+2025-06-24 12:19:45 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/ade5be241e5bc9a4a831862ca5f15d4b.html
+2025-06-24 12:19:45 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf04cfcbd08d6a266313631313431.html
+2025-06-24 12:19:51 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/43029cbcb723665e3c26349d4e69a37d/pdf/zaebac857ac16c88ad5b313030343435
+2025-06-24 12:19:55 - Successfully downloaded PDF: putusan_313_pid.sus_2019_pn_bgl_20250624191952.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:19:56 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:19:56 - Extracted and cleaned text for 313/Pid.Sus/2019/PN Bgl. Length: 46247 chars.
+2025-06-24 12:19:56 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_313_Pid.Sus_2019_PN Bgl_017.txt
+2025-06-24 12:19:56 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/77fd12082696a4f52ae5755713995a7b.html
+2025-06-24 12:19:56 - Successfully processed and got data for case_id: case_017
+2025-06-24 12:19:56 - Successfully processed and got data for case_id: case_018
+2025-06-24 12:19:58 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:19:58 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/7857041f68c11d0f2d744d34ac6f5efe.html
+2025-06-24 12:20:02 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf04cfcbd08d6a266313631313431.html
+2025-06-24 12:20:02 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/56ead3ffd5a27128a51a5867f6b7996b.html
+2025-06-24 12:20:06 - Successfully downloaded PDF: putusan_10_pid.sus_2021_pn_end_20250624192003.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:20:09 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:20:09 - Extracted and cleaned text for 10/Pid.Sus/2021/PN End. Length: 53648 chars.
+2025-06-24 12:20:09 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_10_Pid.Sus_2021_PN End_020.txt
+2025-06-24 12:20:09 - Successfully processed and got data for case_id: case_020
+2025-06-24 12:20:09 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/241ff241c3ac8fd2b845dd970abb07cc.html
+2025-06-24 12:20:09 - Successfully processed and got data for case_id: case_021
+2025-06-24 12:20:30 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/da52e2c578df2e8c970c639ed1a0a6c9/pdf/77fd12082696a4f52ae5755713995a7b
+2025-06-24 12:20:32 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/0ac78ddadfd36fd0d0803b110c104335/pdf/7857041f68c11d0f2d744d34ac6f5efe
+2025-06-24 12:20:34 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/e6560c6e5a0f7ad62f90206efc5c8320/pdf/56ead3ffd5a27128a51a5867f6b7996b
+2025-06-24 12:20:42 - Successfully downloaded PDF: putusan_1875_k_pid.sus_2018_20250624192039.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:20:42 - Successfully downloaded PDF: putusan_1715_k_pid.sus_2017_20250624192038.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:20:43 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:20:43 - Extracted and cleaned text for 1875 K/PID.SUS/2018. Length: 20372 chars.
+2025-06-24 12:20:44 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1875 K_PID.SUS_2018_024.txt
+2025-06-24 12:20:44 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/2bf0972908dcc2a4eb0b782c9d8268d2.html
+2025-06-24 12:20:49 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:20:49 - Extracted and cleaned text for 1715 K/Pid.Sus/2017. Length: 104187 chars.
+2025-06-24 12:20:49 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1715 K_Pid.Sus_2017_022.txt
+2025-06-24 12:20:49 - Successfully processed and got data for case_id: case_022
+2025-06-24 12:20:49 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeba957b039bc989919303835393234.html
+2025-06-24 12:20:51 - Successfully downloaded PDF: putusan_1413_k_pid.sus_2018_20250624192049.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:20:51 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:20:51 - Extracted and cleaned text for 1413 K/Pid.Sus/2018. Length: 14738 chars.
+2025-06-24 12:20:51 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1413 K_Pid.Sus_2018_023.txt
+2025-06-24 12:20:51 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/f98d5d27c2d936145e8eca0b551127f8.html
+2025-06-24 12:20:51 - Successfully processed and got data for case_id: case_023
+2025-06-24 12:20:51 - Successfully processed and got data for case_id: case_024
+2025-06-24 12:21:00 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/ac9ee8594a7e0eaf152d0bf3aaed5df0/pdf/241ff241c3ac8fd2b845dd970abb07cc
+2025-06-24 12:21:16 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf050f48e1c1b30a09a313931323533.html
+2025-06-24 12:21:17 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/2bf0972908dcc2a4eb0b782c9d8268d2.html
+2025-06-24 12:21:17 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/3fb6d545e669898061e1bb41571ccdda.html
+2025-06-24 12:21:17 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/cc99fc32b0fffae8224c217e31eaba3a/pdf/zaf050f48e1c1b30a09a313931323533
+2025-06-24 12:21:20 - Successfully downloaded PDF: putusan_702_pid_2011_pt-mdn_20250624192114.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:21:20 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:21:20 - Extracted and cleaned text for 702/PID/2011/PT-MDN. Length: 21725 chars.
+2025-06-24 12:21:20 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_702_PID_2011_PT-MDN_025.txt
+2025-06-24 12:21:20 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/5e24aba1660f3687ce70be01d339c24b.html
+2025-06-24 12:21:20 - Successfully processed and got data for case_id: case_025
+2025-06-24 12:21:20 - Successfully processed and got data for case_id: case_026
+2025-06-24 12:21:21 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/65c39b68a4736358c22a24319a9171f7/pdf/zaeba957b039bc989919303835393234
+2025-06-24 12:21:36 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/be5da67e51857fb8512182d4bafee353.html
+2025-06-24 12:21:44 - Successfully downloaded PDF: putusan_1125_pdt.g_2025_pa.mks_20250624192136.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:21:45 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:21:45 - Extracted and cleaned text for 1125/Pdt.G/2025/PA.Mks. Length: 27533 chars.
+2025-06-24 12:21:45 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1125_Pdt.G_2025_PA.Mks_029.txt
+2025-06-24 12:21:45 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebabd164e8f8729d5b313233353339.html
+2025-06-24 12:21:48 - Successfully downloaded PDF: putusan_6_pid.sus_2021_pn_amb_20250624192146.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:21:51 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:21:51 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf8ec1b0e8484808b313533303531.html
+2025-06-24 12:21:51 - Extracted and cleaned text for 6/Pid.Sus/2021/PN Amb. Length: 80670 chars.
+2025-06-24 12:21:51 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_6_Pid.Sus_2021_PN Amb_027.txt
+2025-06-24 12:21:51 - Successfully processed and got data for case_id: case_027
+2025-06-24 12:21:51 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/5e9e28355001f27d3214c969c6ab944c.html
+2025-06-24 12:21:51 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:21:51 - Successfully processed and got data for case_id: case_029
+2025-06-24 12:21:51 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:21:51 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:22:12 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/21f52e120e3727a3f31aaa3ae93c4307/pdf/be5da67e51857fb8512182d4bafee353
+2025-06-24 12:22:16 - Successfully downloaded PDF: putusan_1948_k_pid.sus_2012_20250624192213.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:22:18 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:22:18 - Extracted and cleaned text for 1948 K/Pid.Sus/2012. Length: 36694 chars.
+2025-06-24 12:22:18 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1948 K_Pid.Sus_2012_032.txt
+2025-06-24 12:22:18 - Successfully processed and got data for case_id: case_032
+2025-06-24 12:22:18 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/87510b031a2d2d9365e3c4e60d72ffba.html
+2025-06-24 12:22:18 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/3c60252083d54e6b224220d9fa9a77f3.html
+2025-06-24 12:22:26 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf8ec1b0e8484808b313533303531.html
+2025-06-24 12:22:26 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/21e7bae6eaa8abe509ae5ceaa21963bc.html
+2025-06-24 12:22:30 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/33816710f59d61bff16d5c8ff6ce4672/pdf/87510b031a2d2d9365e3c4e60d72ffba
+2025-06-24 12:22:32 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/da0967f19bfa1f2854e17cee4072712e/pdf/zaebabd164e8f8729d5b313233353339
+2025-06-24 12:22:34 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/e9473fffb6ab1f7f8d342167205044e4/pdf/3c60252083d54e6b224220d9fa9a77f3
+2025-06-24 12:22:38 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/c148ca90c43e3f27a17c30691f9edcea/pdf/21e7bae6eaa8abe509ae5ceaa21963bc
+2025-06-24 12:22:46 - Successfully downloaded PDF: putusan_268_pk_pid.sus_2018_20250624192241.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:22:47 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:22:48 - Extracted and cleaned text for 268 PK/Pid.Sus/2018. Length: 14849 chars.
+2025-06-24 12:22:48 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_268 PK_Pid.Sus_2018_037.txt
+2025-06-24 12:22:48 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/350d56dcc89f46e50a99007277ec1f0a.html
+2025-06-24 12:22:48 - Successfully downloaded PDF: putusan_717_k_pid.sus_2018_20250624192247.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:22:50 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:22:50 - Extracted and cleaned text for 717 K/PID.SUS/2018. Length: 13787 chars.
+2025-06-24 12:22:50 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_717 K_PID.SUS_2018_033.txt
+2025-06-24 12:22:50 - Successfully processed and got data for case_id: case_033
+direktori/putusan/1ca29d26d8a395104c89cdf3725228cb.html
+2025-06-24 12:22:50 - Successfully processed and got data for case_id: case_034
+2025-06-24 12:22:50 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:23:02 - Successfully downloaded PDF: putusan_207_pid.sus_2018_pn_bit_20250624192256.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:23:04 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:23:04 - Extracted and cleaned text for 207/Pid.Sus/2018/PN Bit. Length: 39299 chars.
+2025-06-24 12:23:04 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_207_Pid.Sus_2018_PN Bit_036.txt
+2025-06-24 12:23:04 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/45b916f9dc2216f68d9b4076a9000578.html
+2025-06-24 12:23:04 - Successfully processed and got data for case_id: case_036
+2025-06-24 12:23:04 - Successfully processed and got data for case_id: case_037
+2025-06-24 12:23:09 - Successfully downloaded PDF: putusan_237_pid.sus_2019_pn_sbs_20250624192300.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:23:12 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:23:12 - Extracted and cleaned text for 237/Pid.Sus/2019/PN Sbs. Length: 65637 chars.
+2025-06-24 12:23:12 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_237_Pid.Sus_2019_PN Sbs_038.txt
+2025-06-24 12:23:12 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/4a6c984d9c6b6896d495c6d003c46dc8.html
+2025-06-24 12:23:12 - Successfully processed and got data for case_id: case_038
+2025-06-24 12:23:24 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/1ca29d26d8a395104c89cdf3725228cb.html
+2025-06-24 12:23:24 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/d0e63888ba54eefad190fd75c3606bbf.html
+2025-06-24 12:23:25 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/350d56dcc89f46e50a99007277ec1f0a.html
+2025-06-24 12:23:25 - Successfully processed and got data for case_id: case_039
+2025-06-24 12:23:25 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/d254b28d7780e8c2d082d20e28dcebd0.html
+2025-06-24 12:23:25 - Successfully processed and got data for case_id: case_040
+2025-06-24 12:23:38 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:23:38 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/87272c2735209f615e727461e2b41410.html
+2025-06-24 12:23:42 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebeecc826bce5ea1a5313831393239.html
+2025-06-24 12:23:43 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/11e993505e077ccc929b313834313339/pdf/4a6c984d9c6b6896d495c6d003c46dc8
+2025-06-24 12:23:46 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/d254b28d7780e8c2d082d20e28dcebd0.html
+2025-06-24 12:23:46 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/5ca369873d8f97ed8bfd204f299c304b.html
+2025-06-24 12:23:55 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/2da44e52b210f32658f247a762e7ed5b/pdf/zaebeecc826bce5ea1a5313831393239
+2025-06-24 12:24:03 - Successfully downloaded PDF: putusan_2634_k_pid.sus_2009_20250624192359.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:24:04 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:24:04 - Extracted and cleaned text for 2634 K/Pid.SUS/2009. Length: 23156 chars.
+2025-06-24 12:24:04 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_2634 K_Pid.SUS_2009_042.txt
+2025-06-24 12:24:04 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/6f93ac7a74aa17540901a745ac3abbd2.html
+2025-06-24 12:24:04 - Successfully processed and got data for case_id: case_042
+2025-06-24 12:24:04 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:24:04 - Successfully processed and got data for case_id: case_044
+2025-06-24 12:24:08 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:24:08 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeb6b6b512cdf7a84ae313334333433.html
+2025-06-24 12:24:13 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99424cc6679008db3323030323138/pdf/5ca369873d8f97ed8bfd204f299c304b
+2025-06-24 12:24:20 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/60a1a7c9de5e51d015116f818a4095d1/pdf/6f93ac7a74aa17540901a745ac3abbd2
+2025-06-24 12:24:21 - Successfully downloaded PDF: putusan_03_pid.sus_2015_pt_ptk_20250624192413.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:24:21 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:24:21 - Extracted and cleaned text for 03/PID.SUS/2015/PT PTK. Length: 5302 chars.
+2025-06-24 12:24:21 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_03_PID.SUS_2015_PT PTK_046.txt
+2025-06-24 12:24:21 - Successfully processed and got data for case_id: case_046
+2025-06-24 12:24:21 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/0c173fd8a0d3f5afa1a29a5fd326b428.html
+2025-06-24 12:24:30 - Successfully downloaded PDF: putusan_149_pid_2017_pt_smr_20250624192427.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:24:31 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:24:31 - Extracted and cleaned text for 149/PID/2017/PT SMR. Length: 23034 chars.
+2025-06-24 12:24:31 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_149_PID_2017_PT SMR_047.txt
+2025-06-24 12:24:31 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeb2fc653625c60b88c313630343031.html
+2025-06-24 12:24:31 - Successfully processed and got data for case_id: case_047
+2025-06-24 12:24:32 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/a1cd2764579d76516eb098e97fc30946/pdf/zaeb6b6b512cdf7a84ae313334333433
+2025-06-24 12:24:40 - Successfully downloaded PDF: putusan_691_pid_2011_pt-mdn_20250624192434.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:24:41 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:24:41 - Extracted and cleaned text for 691/PID/2011/PT-MDN. Length: 24461 chars.
+2025-06-24 12:24:41 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_691_PID_2011_PT-MDN_048.txt
+2025-06-24 12:24:41 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/dc8180847979302138f6ca1a97ab8036.html
+2025-06-24 12:24:41 - Successfully processed and got data for case_id: case_048
+2025-06-24 12:24:55 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/aba3219f78725ede188be772123010cf/pdf/zaeb2fc653625c60b88c313630343031
+2025-06-24 12:24:57 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/b65a8c03cbc5380c90c594c12cfb6340/pdf/0c173fd8a0d3f5afa1a29a5fd326b428
+2025-06-24 12:24:59 - Successfully downloaded PDF: putusan_4_pid_2021_pt_mnd_20250624192452.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:25:00 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:25:00 - Extracted and cleaned text for 4/PID/2021/PT MND. Length: 35619 chars.
+2025-06-24 12:25:00 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_4_PID_2021_PT MND_049.txt
+2025-06-24 12:25:00 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/8fb8b00ab3c1e8de425673f3b4dddba6.html
+2025-06-24 12:25:00 - Successfully processed and got data for case_id: case_049
+2025-06-24 12:25:08 - Successfully downloaded PDF: putusan_137_pid.sus_2018_pt_bdg_20250624192505.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:25:09 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:25:09 - Extracted and cleaned text for 137/PID.SUS/2018/PT BDG. Length: 33573 chars.
+2025-06-24 12:25:09 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_137_PID.SUS_2018_PT BDG_051.txt
+2025-06-24 12:25:09 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/2c706c528eb6b7fdf2a95743d360ecb8.html
+2025-06-24 12:25:12 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/4ad37dbc23603e8977d7289dbbc6a1c4.html
+2025-06-24 12:25:20 - Successfully downloaded PDF: putusan_1851_k_pid.sus_2018_20250624192514.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:25:21 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:25:21 - Extracted and cleaned text for 1851 K/PID.SUS/2018. Length: 19508 chars.
+2025-06-24 12:25:21 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1851 K_PID.SUS_2018_050.txt
+2025-06-24 12:25:21 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/9eae68382dc957fc6a35aa161daad34b.html
+2025-06-24 12:25:21 - Successfully processed and got data for case_id: case_050
+2025-06-24 12:25:21 - Successfully processed and got data for case_id: case_051
+2025-06-24 12:25:21 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:25:34 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/6937102a821608d53da6561855313c78.html
+2025-06-24 12:25:40 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/64a620da03b12e75b565d9d01352ba47.html
+2025-06-24 12:25:41 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/8fb8b00ab3c1e8de425673f3b4dddba6.html
+2025-06-24 12:25:41 - Successfully processed and got data for case_id: case_053
+2025-06-24 12:25:41 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:25:41 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeb5709a2fd65a28798313531343036.html
+2025-06-24 12:25:41 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:25:53 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/a0e1e977954da1c99af5b4dc67cf2551/pdf/zaeb5709a2fd65a28798313531343036
+2025-06-24 12:25:56 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/341952922022e3515fb06b6758e3de2b/pdf/9eae68382dc957fc6a35aa161daad34b
+2025-06-24 12:25:59 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/e7cb56596d863a6ff0ebdcda7122b9e1/pdf/64a620da03b12e75b565d9d01352ba47
+2025-06-24 12:26:09 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/11ea5cb0d77228c6913d303130383338/pdf/6937102a821608d53da6561855313c78
+2025-06-24 12:26:10 - Successfully downloaded PDF: putusan_190_pid.sus_2020_pn_btm_20250624192605.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:26:12 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:26:12 - Extracted and cleaned text for 190/Pid.Sus/2020/PN Btm. Length: 75693 chars.
+2025-06-24 12:26:12 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_190_Pid.Sus_2020_PN Btm_056.txt
+2025-06-24 12:26:12 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/51fb160c9a174b11727f96fed8df563a.html
+2025-06-24 12:26:12 - Successfully processed and got data for case_id: case_056
+2025-06-24 12:26:13 - Successfully downloaded PDF: putusan_63_pid.sus_2020_pt_yyk_20250624192607.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:26:14 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:26:14 - Extracted and cleaned text for 63/PID.SUS/2020/PT YYK. Length: 36737 chars.
+2025-06-24 12:26:14 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_63_PID.SUS_2020_PT YYK_059.txt
+2025-06-24 12:26:14 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/ad721dd0f32645d012f0833a49f5a564.html
+2025-06-24 12:26:15 - Successfully downloaded PDF: putusan_3043_k_pid.sus_2018_20250624192614.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:26:16 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:26:16 - Extracted and cleaned text for 3043 K/Pid.Sus/2018. Length: 19124 chars.
+2025-06-24 12:26:16 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_3043 K_Pid.Sus_2018_058.txt
+2025-06-24 12:26:16 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf4032663b252b98b303933333133.html
+2025-06-24 12:26:20 - Successfully downloaded PDF: putusan_421_k_pid.sus_2011_20250624192617.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:26:22 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:26:22 - Extracted and cleaned text for 421 K/PID.SUS/2011. Length: 16937 chars.
+2025-06-24 12:26:22 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_421 K_PID.SUS_2011_057.txt
+2025-06-24 12:26:22 - Successfully processed and got data for case_id: case_057
+2025-06-24 12:26:22 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf7f2b8d40842900d303934353431.html
+2025-06-24 12:26:22 - Successfully processed and got data for case_id: case_058
+2025-06-24 12:26:22 - Successfully processed and got data for case_id: case_059
+2025-06-24 12:26:41 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf4032663b252b98b303933333133.html
+2025-06-24 12:26:41 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/65388a8781f4c3eb3f6c92a75ac66e69.html
+2025-06-24 12:26:47 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf050f494d8dd28a260313931333034.html
+2025-06-24 12:26:49 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/cfb16da92c52476ce3b344e9f6eb785c.html
+2025-06-24 12:26:49 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:26:54 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf7f2b8d40842900d303934353431.html
+2025-06-24 12:26:54 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/d097cb8a35031ba6148179dd532c2d14.html
+2025-06-24 12:26:59 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:26:59 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebeecf03d828c8aa90313833373235.html
+2025-06-24 12:26:59 - Successfully processed and got data for case_id: case_062
+2025-06-24 12:26:59 - Successfully processed and got data for case_id: case_063
+2025-06-24 12:26:59 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:27:06 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/6a2ac6fa784e404e47a16311f9188eda/pdf/zaf050f494d8dd28a260313931333034
+2025-06-24 12:27:15 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/0bbd962fa89acfe1b979a43f1fe2f576/pdf/d097cb8a35031ba6148179dd532c2d14
+2025-06-24 12:27:18 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/fee19879a8e8ef6549067427d7172f0c/pdf/zaebeecf03d828c8aa90313833373235
+2025-06-24 12:27:18 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/2a2a3416a6bd4eab737af272fb38db87/pdf/cfb16da92c52476ce3b344e9f6eb785c
+2025-06-24 12:27:21 - Successfully downloaded PDF: putusan_833_pdt.g_2025_pa.mks_20250624192719.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:27:22 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:27:22 - Extracted and cleaned text for 833/Pdt.G/2025/PA.Mks. Length: 27107 chars.
+2025-06-24 12:27:22 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_833_Pdt.G_2025_PA.Mks_065.txt
+2025-06-24 12:27:22 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/0b431b04b4252780757cd922b658bd6b.html
+2025-06-24 12:27:22 - Successfully processed and got data for case_id: case_065
+2025-06-24 12:27:30 - Successfully downloaded PDF: putusan_68__pk___pid.sus___2010_20250624192725.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:27:32 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:27:32 - Extracted and cleaned text for 68  PK / Pid.Sus / 2010. Length: 49737 chars.
+2025-06-24 12:27:32 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_68  PK _ Pid.Sus _ 2010_067.txt
+2025-06-24 12:27:32 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/acf73c20cdc6c36d57df0e06d249d48e.html
+2025-06-24 12:27:34 - Successfully downloaded PDF: putusan_49_pid_2013_pt_ptk_20250624192731.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:27:35 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:27:35 - Extracted and cleaned text for 49/PID/2013/PT PTK. Length: 41049 chars.
+2025-06-24 12:27:35 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_49_PID_2013_PT PTK_068.txt
+2025-06-24 12:27:35 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/8d2ae9bb200345feeada8051db22e72f.html
+2025-06-24 12:27:42 - Successfully downloaded PDF: putusan_131_pid.sus_2018_pn_wkb_20250624192737.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:27:47 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:27:47 - Extracted and cleaned text for 131/Pid.Sus/2018/PN Wkb. Length: 128452 chars.
+2025-06-24 12:27:47 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_131_Pid.Sus_2018_PN Wkb_066.txt
+2025-06-24 12:27:47 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/2b11c2c5ad80fb5276b15cbebf566835.html
+2025-06-24 12:27:47 - Successfully processed and got data for case_id: case_066
+2025-06-24 12:27:47 - Successfully processed and got data for case_id: case_067
+2025-06-24 12:27:47 - Successfully processed and got data for case_id: case_068
+2025-06-24 12:27:58 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/05f1314607bc15368622d96e2c8fcd58.html
+2025-06-24 12:28:03 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:28:03 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/9667c6970df87bc406f15371305f9134.html
+2025-06-24 12:28:03 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:28:04 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:28:04 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/766d392c035a4b28ff6efac3ab39aec1.html
+2025-06-24 12:28:12 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/afb37465803dfc662322b4174fb47be2/pdf/2b11c2c5ad80fb5276b15cbebf566835
+2025-06-24 12:28:13 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/05f1314607bc15368622d96e2c8fcd58.html
+2025-06-24 12:28:13 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/d87f418471811d02e66f819356cd7bdc.html
+2025-06-24 12:28:22 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/d2498765d03088b37f9dcbf7ef90e020/pdf/9667c6970df87bc406f15371305f9134
+2025-06-24 12:28:31 - Successfully downloaded PDF: putusan_61_pid.sus_2019_pn_bgl_20250624192823.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:28:32 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:28:32 - Extracted and cleaned text for 61/Pid.Sus/2019/PN Bgl. Length: 51544 chars.
+2025-06-24 12:28:32 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_61_Pid.Sus_2019_PN Bgl_072.txt
+2025-06-24 12:28:32 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/653aacdfa048872d40c5bbd5dd7e5497.html
+2025-06-24 12:28:32 - Successfully processed and got data for case_id: case_072
+2025-06-24 12:28:33 - Successfully processed and got data for case_id: case_073
+2025-06-24 12:28:35 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/7aaac466515db5ddc25992cc903bdde9/pdf/766d392c035a4b28ff6efac3ab39aec1
+2025-06-24 12:28:42 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/d87f418471811d02e66f819356cd7bdc.html
+2025-06-24 12:28:42 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeba961124e80908098313030363334.html
+2025-06-24 12:28:47 - Successfully downloaded PDF: putusan_21_k_pid.sus_2011_20250624192841.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:28:49 - Successfully downloaded PDF: putusan_2383_k_pid.sus_2014_20250624192848.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:28:49 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:28:49 - Extracted and cleaned text for 21 K/PID.SUS/2011. Length: 48289 chars.
+2025-06-24 12:28:49 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_21 K_PID.SUS_2011_074.txt
+2025-06-24 12:28:49 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeb3f775a399650ae52313531393031.html
+2025-06-24 12:28:49 - Successfully processed and got data for case_id: case_074
+2025-06-24 12:28:50 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:28:50 - Extracted and cleaned text for 2383 K/Pid.Sus/2014. Length: 15753 chars.
+2025-06-24 12:28:50 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_2383 K_Pid.Sus_2014_075.txt
+2025-06-24 12:28:50 - Successfully processed and got data for case_id: case_075
+2025-06-24 12:28:50 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/42e54f475d254df4fc0dbec4f414893f.html
+2025-06-24 12:28:50 - Successfully processed and got data for case_id: case_076
+2025-06-24 12:29:01 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:29:01 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf050f4852166a28190313931323338.html
+2025-06-24 12:29:08 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeb3f775a399650ae52313531393031.html
+2025-06-24 12:29:08 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf9bb52e948baa982313631343131.html
+2025-06-24 12:29:30 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebff6fd1afe70896c6323232383438.html
+2025-06-24 12:29:35 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/22cec07f2e1a0fad58277c275d3427ba/pdf/zaebf9bb52e948baa982313631343131
+2025-06-24 12:29:45 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/73cfdafece29e1a9e002c69c9459b6b2/pdf/zaf050f4852166a28190313931323338
+2025-06-24 12:29:47 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/acab6e42825d25de17b8915ed589ffac/pdf/zaeba961124e80908098313030363334
+2025-06-24 12:29:57 - Successfully downloaded PDF: putusan_1060_pdt.g_2025_pa.mks_20250624192953.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:29:59 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:29:59 - Extracted and cleaned text for 1060/Pdt.G/2025/PA.Mks. Length: 27085 chars.
+2025-06-24 12:29:59 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_1060_Pdt.G_2025_PA.Mks_081.txt
+2025-06-24 12:29:59 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/12648b67516f415255f5f3860ce465eb.html
+2025-06-24 12:29:59 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/43d92b0a85da50e6e440570d1a9f9bce.html
+2025-06-24 12:30:01 - Successfully downloaded PDF: putusan_359_pid.sus_2020_pn_cbi_20250624192947.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:30:05 - Successfully downloaded PDF: putusan_14_pid.sus-anak_2021_pt_sby_20250624193000.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:30:05 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:30:05 - Extracted and cleaned text for 359/Pid.Sus/2020/PN Cbi. Length: 113379 chars.
+2025-06-24 12:30:05 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_359_Pid.Sus_2020_PN Cbi_082.txt
+2025-06-24 12:30:05 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec88a63c429b3cc04b313331333239.html
+2025-06-24 12:30:06 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:30:06 - Extracted and cleaned text for 14/PID.SUS-Anak/2021/PT SBY. Length: 21164 chars.
+2025-06-24 12:30:06 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_14_PID.SUS-Anak_2021_PT SBY_078.txt
+2025-06-24 12:30:06 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/04d2ab73f7fdf2633ab1fff1d8bfbbdc.html
+2025-06-24 12:30:06 - Successfully processed and got data for case_id: case_078
+2025-06-24 12:30:06 - Successfully processed and got data for case_id: case_079
+2025-06-24 12:30:06 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:30:06 - Successfully processed and got data for case_id: case_081
+2025-06-24 12:30:06 - Successfully processed and got data for case_id: case_082
+2025-06-24 12:30:06 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:30:25 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/12648b67516f415255f5f3860ce465eb.html
+2025-06-24 12:30:25 - Successfully processed and got data for case_id: case_084
+2025-06-24 12:30:25 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/fdcbaa8fcedbc870643c9bf3f7c00ceb.html
+2025-06-24 12:30:26 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:30:26 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/1217f531aca64c60a1502a96d9b0f0c0.html
+2025-06-24 12:30:40 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/041e7457535e363baf97aa53561b8c3c/pdf/zaec88a63c429b3cc04b313331333239
+2025-06-24 12:30:44 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/62341315ce7d5ee9e0ee77834be0e738/pdf/04d2ab73f7fdf2633ab1fff1d8bfbbdc
+2025-06-24 12:30:51 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/9d3893d1ed7ae197acbc0e786b9d6a7b.html
+2025-06-24 12:30:55 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/d27bf91843e5f6ed11142d844876e8db/pdf/1217f531aca64c60a1502a96d9b0f0c0
+2025-06-24 12:30:55 - Successfully downloaded PDF: putusan_884_pid.sus_2017_pt-mdn_20250624193053.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:30:56 - Successfully downloaded PDF: putusan_5_pid.sus_2022_pt_amb_20250624193054.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:30:56 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:30:57 - Extracted and cleaned text for 884/PID.SUS/2017/PT-MDN. Length: 24219 chars.
+2025-06-24 12:30:57 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_884_PID.SUS_2017_PT-MDN_087.txt
+2025-06-24 12:30:57 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeba6455d710e7292ec313131303431.html
+2025-06-24 12:30:57 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:30:57 - Extracted and cleaned text for 5/PID.SUS/2022/PT AMB. Length: 22650 chars.
+2025-06-24 12:30:57 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_5_PID.SUS_2022_PT AMB_086.txt
+2025-06-24 12:30:57 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/a03a1273f123f08b4fb289efbd491698.html
+2025-06-24 12:30:57 - Successfully processed and got data for case_id: case_086
+2025-06-24 12:30:57 - Successfully processed and got data for case_id: case_087
+2025-06-24 12:30:57 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:31:08 - Successfully downloaded PDF: putusan_97_pid_2018_pt_bdg_20250624193105.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:31:09 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:31:09 - Extracted and cleaned text for 97/PID/2018/PT BDG. Length: 21417 chars.
+2025-06-24 12:31:09 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_97_PID_2018_PT BDG_089.txt
+2025-06-24 12:31:09 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/0ba4d58d08895a985bf45a6f11d5104e.html
+2025-06-24 12:31:09 - Successfully processed and got data for case_id: case_089
+2025-06-24 12:31:18 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/58c2afbc5f097c1c80cbde363a884af4.html
+2025-06-24 12:31:21 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/387ccabb20387f60fd5c56286a09bbcf/pdf/0ba4d58d08895a985bf45a6f11d5104e
+2025-06-24 12:31:23 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeb7194a0c64fb0b79d303935343333.html
+2025-06-24 12:31:23 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:31:26 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/5fb5f80093b22d7561f2b76d763cf754.html
+2025-06-24 12:31:28 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/c3d8a3e48dbd208421acd684efc2dfbd/pdf/zaeba6455d710e7292ec313131303431
+2025-06-24 12:31:32 - Successfully downloaded PDF: putusan_2470_k_pid.sus_2015_20250624193130.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:31:34 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:31:34 - Extracted and cleaned text for 2470 K/PID.SUS/2015. Length: 67112 chars.
+2025-06-24 12:31:34 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_2470 K_PID.SUS_2015_093.txt
+2025-06-24 12:31:34 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/ef6fe189f2a425bb8d9b187af794ed99.html
+2025-06-24 12:31:39 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/0aad21654c8f2ba62853d73a9a875bc8/pdf/zaeb7194a0c64fb0b79d303935343333
+2025-06-24 12:31:46 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/0a6d4f1c628ea6dd57737966f59069d9/pdf/5fb5f80093b22d7561f2b76d763cf754
+2025-06-24 12:31:49 - Successfully downloaded PDF: putusan_465_k_pid.sus_2018_20250624193147.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:31:50 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:31:50 - Extracted and cleaned text for 465 K/PID.SUS/2018. Length: 16870 chars.
+2025-06-24 12:31:50 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_465 K_PID.SUS_2018_091.txt
+2025-06-24 12:31:50 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf04cfa06cec4a689313631313336.html
+2025-06-24 12:31:50 - Successfully processed and got data for case_id: case_091
+2025-06-24 12:31:50 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:31:50 - Successfully processed and got data for case_id: case_093
+2025-06-24 12:31:50 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:31:56 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/5621b119858749da1f0e4df7c2b08d2c/pdf/ef6fe189f2a425bb8d9b187af794ed99
+2025-06-24 12:32:04 - Successfully downloaded PDF: putusan_7_pid.sus_2021_pn_sbs_20250624193201.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:32:06 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:32:06 - Extracted and cleaned text for 7/Pid.Sus/2021/PN Sbs. Length: 55210 chars.
+2025-06-24 12:32:06 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_7_Pid.Sus_2021_PN Sbs_095.txt
+2025-06-24 12:32:06 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/e13710db7829f74e8a56e373485e4337.html
+2025-06-24 12:32:06 - Successfully processed and got data for case_id: case_095
+2025-06-24 12:32:11 - Successfully downloaded PDF: putusan_79_pid_2016_pt.plg_20250624193208.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:32:13 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:32:13 - Extracted and cleaned text for 79/PID/2016/PT.PLG. Length: 27196 chars.
+2025-06-24 12:32:13 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_79_PID_2016_PT.PLG_096.txt
+2025-06-24 12:32:13 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/54488f06aa83543df1c71e1289183648.html
+2025-06-24 12:32:13 - Successfully processed and got data for case_id: case_096
+2025-06-24 12:32:20 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf04cfa06cec4a689313631313336.html
+2025-06-24 12:32:21 - Successfully downloaded PDF: putusan_547_pid.sus_2018_pn_btm_20250624193217.pdf to /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan
+2025-06-24 12:32:25 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-24 12:32:25 - Extracted and cleaned text for 547/Pid.Sus/2018/PN Btm. Length: 97018 chars.
+2025-06-24 12:32:25 - Saved cleaned text to: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw/case_547_Pid.Sus_2018_PN Btm_097.txt
+2025-06-24 12:32:25 - Successfully processed and got data for case_id: case_097
+2025-06-24 12:32:25 - Successfully processed and got data for case_id: case_098
+2025-06-24 12:32:28 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:32:34 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-24 12:32:34 - Successfully processed 69 documents.
+2025-06-24 12:32:34 - All scraped data saved to: /content/drive/MyDrive/Penalaran Komputer UAS/Scraper_CSVs/putusan_ma_Perdagangan_Orang_2025-06-24.csv
+2025-06-24 12:32:34 - Total documents in CSV: 69
+2025-06-24 12:32:34 - Scraping and initial processing complete.
+2025-06-24 12:32:34 - Cleaned text files saved in: /content/drive/MyDrive/Penalaran Komputer UAS/data/raw
+2025-06-24 12:32:34 - PDFs downloaded to: /content/drive/MyDrive/Penalaran Komputer UAS/PDFs_Putusan

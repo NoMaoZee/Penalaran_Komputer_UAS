@@ -1,0 +1,79 @@
+[
+    {
+        "query_id": "Q001_PO",
+        "query_text": "Terdakwa merekrut korban dengan janji palsu pekerjaan sebagai pramusaji di kota besar, namun sesampainya di tujuan, korban justru disekap dan dipaksa menjadi pekerja seks komersial untuk keuntungan terdakwa.",
+        "ground_truth_ids": [
+            "case_027",
+            "case_046",
+            "case_068",
+            "case_086",
+            "case_095"
+        ],
+        "ground_truth_solution": "Menolak Permohonan"
+    },
+    {
+        "query_id": "Q002_PO",
+        "query_text": "Kasus melibatkan seorang asisten rumah tangga (ART) yang direkrut untuk bekerja di luar negeri. Pelaku menahan paspor dan alat komunikasi korban, memaksanya bekerja tanpa upah selama berbulan-bulan, dan melakukan kekerasan fisik jika korban menolak.",
+        "ground_truth_ids": [
+            "case_078",
+            "case_020"
+        ],
+        "ground_truth_solution": "Menolak Permohonan"
+    },
+    {
+        "query_id": "Q003_PO",
+        "query_text": "Pelaku memberikan pinjaman uang kepada keluarga korban dengan dalih untuk biaya pengobatan. Sebagai jaminan, anak korban dibawa untuk dipekerjakan. Namun, utang tersebut terus membengkak sehingga korban terjerat dalam situasi kerja paksa untuk melunasi utang.",
+        "ground_truth_ids": [
+            "case_067",
+            "case_047"
+        ],
+        "ground_truth_solution": "Menolak Permohonan"
+    },
+    {
+        "query_id": "Q004_PO",
+        "query_text": "Tindak pidana perdagangan anak di bawah umur yang dipekerjakan secara paksa di sebuah perkebunan. Para korban tidak diberi upah yang layak, dipaksa bekerja melebihi jam kerja normal, dan ditempatkan dalam kondisi hidup yang tidak manusiawi.",
+        "ground_truth_ids": [
+            "case_049",
+            "case_086",
+            "case_027",
+            "case_046",
+            "case_095",
+            "case_020",
+            "case_078",
+            "case_068",
+            "case_072"
+        ],
+        "ground_truth_solution": "Menolak Permohonan"
+    },
+    {
+        "query_id": "Q005_PO",
+        "query_text": "Terdakwa menggunakan media sosial untuk memikat korban dengan menawarkan menjadi 'talent' atau model. Setelah korban bertemu, ia diancam dan dipaksa membuat konten pornografi yang hasilnya dijual oleh terdakwa secara online untuk keuntungan pribadi.",
+        "ground_truth_ids": [
+            "case_049",
+            "case_072",
+            "case_078"
+        ],
+        "ground_truth_solution": "Menolak Permohonan"
+    },
+    {
+        "query_id": "Q006_PO",
+        "query_text": "Pelaku menggunakan Instagram dan TikTok untuk merekrut remaja perempuan dengan tawaran menjadi model atau influencer terkenal. Setelah bertemu, korban dibawa ke sebuah rumah, difoto dan direkam dalam kondisi tidak senonoh, kemudian dipaksa melayani klien dengan ancaman akan menyebar foto tersebut.",
+        "ground_truth_ids": [
+            "case_096",
+            "case_089"
+        ],
+        "ground_truth_solution": "Menolak Permohonan"
+    },
+    {
+        "query_id": "Q007_PO",
+        "query_text": "Sebuah sindikat perdagangan orang terorganisir yang melibatkan beberapa pelaku dengan peran berbeda: satu sebagai perekrut di desa, satu sebagai pengemudi, dan satu lagi sebagai penampung yang melakukan eksploitasi seksual terhadap korban.",
+        "ground_truth_ids": [
+            "case_067",
+            "case_066",
+            "case_056",
+            "case_051",
+            "case_047"
+        ],
+        "ground_truth_solution": "Menolak Permohonan"
+    }
+]

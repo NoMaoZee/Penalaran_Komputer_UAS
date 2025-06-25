@@ -1,0 +1,11 @@
+query_id,query_text_preview,retrieval_method,prediction_algorithm,predicted_solution,top_5_case_ids
+Q001_PO,"Terdakwa merekrut korban dengan janji palsu pekerjaan sebagai pramusaji di kota besar, namun sesampa...",tfidf,majority_vote,NO_VALID_SOLUTIONS_IN_TOP_K,"case_004, case_011, case_027, case_020, case_067"
+Q001_PO,"Terdakwa merekrut korban dengan janji palsu pekerjaan sebagai pramusaji di kota besar, namun sesampa...",tfidf,weighted_similarity,NO_VALID_SOLUTIONS_IN_TOP_K,"case_004, case_011, case_027, case_020, case_067"
+Q002_PO,Kasus melibatkan seorang asisten rumah tangga (ART) yang direkrut untuk bekerja di luar negeri. Pela...,tfidf,majority_vote,NO_VALID_SOLUTIONS_IN_TOP_K,"case_004, case_011, case_027, case_038, case_074"
+Q002_PO,Kasus melibatkan seorang asisten rumah tangga (ART) yang direkrut untuk bekerja di luar negeri. Pela...,tfidf,weighted_similarity,NO_VALID_SOLUTIONS_IN_TOP_K,"case_004, case_011, case_027, case_038, case_074"
+Q003_PO,Pelaku memberikan pinjaman uang kepada keluarga korban dengan dalih untuk biaya pengobatan. Sebagai ...,tfidf,majority_vote,NO_VALID_SOLUTIONS_IN_TOP_K,"case_027, case_038, case_086, case_011, case_004"
+Q003_PO,Pelaku memberikan pinjaman uang kepada keluarga korban dengan dalih untuk biaya pengobatan. Sebagai ...,tfidf,weighted_similarity,NO_VALID_SOLUTIONS_IN_TOP_K,"case_027, case_038, case_086, case_011, case_004"
+Q004_PO,Tindak pidana perdagangan anak di bawah umur yang dipekerjakan secara paksa di sebuah perkebunan. Pa...,tfidf,majority_vote,NO_VALID_SOLUTIONS_IN_TOP_K,"case_027, case_038, case_086, case_010, case_020"
+Q004_PO,Tindak pidana perdagangan anak di bawah umur yang dipekerjakan secara paksa di sebuah perkebunan. Pa...,tfidf,weighted_similarity,NO_VALID_SOLUTIONS_IN_TOP_K,"case_027, case_038, case_086, case_010, case_020"
+Q005_PO,Terdakwa menggunakan media sosial untuk memikat korban dengan menawarkan menjadi 'talent' atau model...,tfidf,majority_vote,NO_VALID_SOLUTIONS_IN_TOP_K,"case_004, case_011, case_027, case_074, case_086"
+Q005_PO,Terdakwa menggunakan media sosial untuk memikat korban dengan menawarkan menjadi 'talent' atau model...,tfidf,weighted_similarity,NO_VALID_SOLUTIONS_IN_TOP_K,"case_004, case_011, case_027, case_074, case_086"
