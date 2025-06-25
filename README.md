@@ -54,24 +54,43 @@ Sistem ini dibangun dalam satu file Jupyter Notebook (`ALL_Penalaran_Komputer_UA
 Proyek ini dirancang untuk dijalankan di Google Colab dan menggunakan Google Drive untuk penyimpanan data. Pastikan Anda memiliki struktur folder berikut di dalam folder proyek utama Anda di Google Drive.
 
 /content/drive/MyDrive/Penalaran Komputer UAS/
+
 ├── ALL_Penalaran_Komputer_UAS.ipynb
+
 ├── data/
+
 │   ├── raw/
+
 │   │   └── (Berisi file case_XXX.txt hasil scraping Tahap 1)
+
 │   ├── processed/
+
 │   │   └── cases_processed.csv
+
 │   ├── eval/
+
 │   │   ├── queries.json
+
 │   │   ├── retrieval_metrics.csv
+
 │   │   └── prediction_metrics.csv
+
 │   └── results/
+
 │       └── predictions.csv
+
 ├── PDFs_Putusan/
+
 │   └── (Berisi file PDF putusan hasil unduhan Tahap 1)
+
 ├── Scraper_CSVs/
+
 │   └── (Berisi file CSV metadata hasil scraping Tahap 1)
+
 └── logs/
+
 └── cleaning.log
+
 
 ## Penyiapan & Instalasi
 
